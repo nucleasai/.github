@@ -1,17 +1,17 @@
 # NucleasAI
 
-Custom AI Systems, AI Agents & Workflow Automation
+AI Systems That Actually Ship.
 
-NucleasAI designs and builds production-grade AI systems that help businesses automate workflows, improve decision-making and scale operations.
+We help businesses design, build and deploy production-grade AI systems that integrate into real-world operations.
 
-## What We Build
+## Core Services
 
 - AI Agents
-- Workflow Automation Systems
-- Enterprise Knowledge Assistants
-- Customer Support Automation
-- Document Intelligence Platforms
-- Custom Enterprise AI Solutions
+- Workflow Automation
+- Enterprise Knowledge Systems
+- Document Intelligence
+- Customer Operations Automation
+- Custom AI Platforms
 
 ## Industries
 
@@ -21,6 +21,17 @@ NucleasAI designs and builds production-grade AI systems that help businesses au
 - Financial Services
 - Logistics
 - Manufacturing
+
+## Engagement Models
+
+- Discovery & Strategy
+- MVP Development
+- Production Implementation
+- Long-Term AI Partnerships
+
+## Case Studies
+
+Coming Soon
 
 ## Website
 
